@@ -1,0 +1,33 @@
+
+div{
+        margin: auto;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    margin-left: 50%;
+}
+
+
+.id1{
+        padding: 9px;
+    width: 214px;
+    margin-top: 11px;
+    border: 5px solid;
+}
+
+.btn{
+        margin-top: 20px;
+    padding: 9px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.text1{
+        font-size: 54px;
+    
+}
+
+.text2{
+     font-size: 54px;
+}
